@@ -32,10 +32,11 @@ p, li, a, th, td{
 }
 .intro img{
 	border-radius: 25%;
-	width: 25%;
+	width: 50%;
 	border: 10px;
 	border-color: #000000;
 	border-style: solid;
+	float: right;
 }
 .intro h1{
 	font-size: 3em;
